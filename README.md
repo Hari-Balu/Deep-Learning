@@ -19,7 +19,7 @@ Whether you're studying deep learning, preparing for AI roles, or exploring adva
   - Loss Functions, Optimizers (SGD, Adam)
 
 - 🧱 **Neural Network Architectures**
-  - Feedforward Neural Networks (FNN)
+  - Artificial Neural Networks (ANN)
   - Convolutional Neural Networks (CNN)
   - Recurrent Neural Networks (RNN, LSTM, GRU)
   - Transfer Learning (ResNet, VGG, Inception)
