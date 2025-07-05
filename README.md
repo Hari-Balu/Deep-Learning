@@ -1,6 +1,6 @@
-# 🧠 Deep Learning Learnings
+# 🧠 Deep Learning
 
-Welcome to my **Deep Learning Learnings** repository!  
+Welcome to my **Deep Learning** repository!  
 This collection documents my practical journey through deep learning — covering core concepts, neural network architectures, key frameworks (TensorFlow, PyTorch), and real-world projects.
 
 Whether you're studying deep learning, preparing for AI roles, or exploring advanced models, this repo serves as a hands-on, structured resource.
